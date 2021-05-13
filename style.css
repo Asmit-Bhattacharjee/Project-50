@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.menu{
+    display:flex;
+    justify-content: space-between ;
+    background-color: black;
+    font-family: monospace;
+    font-weight: 400;
+    color: yellow;
+}
+.bodyImg{
+    background-color: black;
+    color: yellow;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid yellow;
+    background-color: whitesmoke;
+    justify-content: space-evenly;
+    
+}
+.origami{
+    border-radius: 20px;
+background-color: white;
+font-family: fantasy;
+text-align: left;
+}
+h3,p{
+    text-align: center;
+}
